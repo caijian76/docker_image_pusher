@@ -5,6 +5,4 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-ubuntu
---platform=linux/arm64/v8 ubuntu
-bigbluebutton/bbb-libreoffice:7.6.2-20231020-161900
+nvidia/cuda:11.8.0-devel-ubuntu20.04
