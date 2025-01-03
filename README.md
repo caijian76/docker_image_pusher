@@ -1,7 +1,7 @@
 # Docker Images Pusher
 
 我的aliyun下载地址  registry.cn-hangzhou.aliyuncs.com/jackc/xxxx:xxx
-去掉原镜像的一级
+名字只保留原镜像的最后一级，如果是arm64的镜像，为linux_arm64_xxxx:vxxx
 
 使用Github Action将国外的Docker镜像转存到阿里云私有仓库，供国内服务器使用，免费易用<br>
 - 支持DockerHub, gcr.io, k8s.io, ghcr.io等任意仓库<br>
