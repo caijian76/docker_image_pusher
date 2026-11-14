@@ -7,4 +7,4 @@ nginx
 #--platform=linux/arm64 xiaoyaliu/alist
 
 #--platform=linux/arm64 registry.k8s.io/nfd/node-feature-discovery:v0.15.3
-registry.k8s.io/kueue/kueue:v0.20.5
+registry.k8s.io/kueue/kueue:v0.20.6
